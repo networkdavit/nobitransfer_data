@@ -2,12 +2,13 @@ const express = require('express');
 const fs = require('fs');
 const path = require('path');
 const bodyParser = require('body-parser');
-
+const cors = require('cors')
 const app = express();
 const port = 3000;
 const dataFilePath = path.join(__dirname, 'data.json');
 
 app.use(bodyParser.json());
+app.use(cors())
 app.use(express.static('public'));
 
 // Endpoint to get data
@@ -38,6 +39,6 @@ app.post('/data', (req, res) => {
     });
 });
 
-app.listen(port, () => {
+app.listen(port,"0.0.0.0", () => {
     console.log(`Server is running at http://localhost:${port}`);
 });
