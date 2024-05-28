@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Airport Sochi > Adler Railway",
+    "value": "3000",
+    "tag": "airport_sochi_adler_railway"
+  },
+  {
+    "name": "Sample Route 2",
+    "value": "1000",
+    "tag": "sample_route_2"
+  },
+  {
+    "name": "Sample Route 3",
+    "value": "10000",
+    "tag": "sample_route_3"
+  },
+  {
+    "name": "Sample Route 4",
+    "value": "2200",
+    "tag": "sample_route_4"
+  },
+  {
+    "name": "Sample Route 5",
+    "value": "1600",
+    "tag": "sample_route_5"
+  },
+  {
+    "name": "Sample Route 6",
+    "value": "2100",
+    "tag": "sample_route_6"
+  },
+  {
+    "name": "Sample Route 7",
+    "value": "2000",
+    "tag": "sample_route_7"
+  },
+  {
+    "name": "Sample Route 8",
+    "value": "1700",
+    "tag": "sample_route_8"
+  },
+  {
+    "name": "Sample Route 9",
+    "value": "1900",
+    "tag": "sample_route_9"
+  },
+  {
+    "name": "Sample Route 10",
+    "value": "2300",
+    "tag": "sample_route_10"
+  }
+]
