@@ -1,52 +1,172 @@
 [
   {
-    "name": "Airport Sochi > Adler Railway",
+    "name": "Аэропорт Сочи > Адлерский вокзал Эконом",
     "value": "2000",
-    "tag": "airport_sochi_adler_railway"
+    "tag": "airport_sochi_adler_railway_econom"
   },
   {
-    "name": "Sample Route 2",
-    "value": "1000",
-    "tag": "sample_route_2"
+    "name": "Аэропорт Сочи > Цандрыпш Эконом",
+    "value": "2600",
+    "tag": "airport_sochi_adler_tsandripsh_econom"
   },
   {
-    "name": "Sample Route 3",
-    "value": "10000",
-    "tag": "sample_route_3"
+    "name": "Аэропорт Сочи > Цандрыпш Комфорт",
+    "value": "2900",
+    "tag": "airport_sochi_adler_tsandripsh_comfort"
   },
   {
-    "name": "Sample Route 4",
-    "value": "2200",
-    "tag": "sample_route_4"
+    "name": "Аэропорт Сочи > Цандрыпш Минивэн",
+    "value": "3500",
+    "tag": "airport_sochi_adler_tsandripsh_minivan"
   },
   {
-    "name": "Sample Route 5",
-    "value": "1600",
-    "tag": "sample_route_5"
+    "name": "Аэропорт Сочи > Пицунда Эконом",
+    "value": "3500",
+    "tag": "airport_sochi_pitsunda_econom"
   },
   {
-    "name": "Sample Route 6",
-    "value": "2100",
-    "tag": "sample_route_6"
+    "name": "Аэропорт Сочи > Пицунда Комфорт",
+    "value": "4000",
+    "tag": "airport_sochi_pitsunda_comfort"
   },
   {
-    "name": "Sample Route 7",
-    "value": "2000",
-    "tag": "sample_route_7"
+    "name": "Аэропорт Сочи > Пицунда Минивэн",
+    "value": "4500",
+    "tag": "airport_sochi_pitsunda_minivan"
   },
   {
-    "name": "Sample Route 8",
-    "value": "1700",
-    "tag": "sample_route_8"
+    "name": "Аэропорт Сочи > Лдзаа Эконом",
+    "value": "4000",
+    "tag": "airport_sochi_ldzaa_econom"
   },
   {
-    "name": "Sample Route 9",
-    "value": "1900",
-    "tag": "sample_route_9"
+    "name": "Аэропорт Сочи > Лдзаа Комфорт",
+    "value": "4700",
+    "tag": "airport_sochi_ldzaa_comfort"
   },
   {
-    "name": "Sample Route 10",
-    "value": "2300",
-    "tag": "sample_route_10"
+    "name": "Аэропорт Сочи > Лдзаа Минивэн",
+    "value": "5300",
+    "tag": "airport_sochi_ldzaa_minivan"
+  },
+  {
+    "name": "Аэропорт Сочи > Золотая Бухта Эконом",
+    "value": "4700",
+    "tag": "airport_sochi_zolotaya_bukhta_econom"
+  },
+  {
+    "name": "Аэропорт Сочи > Золотая Бухта Комфорт",
+    "value": "5500",
+    "tag": "airport_sochi_zolotaya_bukhta_comfort"
+  },
+  {
+    "name": "Аэропорт Сочи > Золотая Бухта Минивэн",
+    "value": "6000",
+    "tag": "airport_sochi_zolotaya_bukhta_minivan"
+  },
+  {
+    "name": "Аэропорт Сочи > Гудаута Эконом",
+    "value": "4300",
+    "tag": "airport_sochi_gudauta_econom"
+  },
+  {
+    "name": "Аэропорт Сочи > Гудаута Комфорт",
+    "value": "5000",
+    "tag": "airport_sochi_gudauta_comfort"
+  },
+  {
+    "name": "Аэропорт Сочи > Гудаута Минивэн",
+    "value": "5500",
+    "tag": "airport_sochi_gudauta_minivan"
+  },
+  {
+    "name": "Аэропорт Сочи > Новый Афон Эконом",
+    "value": "4700",
+    "tag": "airport_sochi_novy_afon_econom"
+  },
+  {
+    "name": "Аэропорт Сочи > Новый Афон Комфорт",
+    "value": "5500",
+    "tag": "airport_sochi_novy_afon_comfort"
+  },
+  {
+    "name": "Аэропорт Сочи > Новый Афон Минивэн",
+    "value": "6000",
+    "tag": "airport_sochi_novy_afon_minivan"
+  },
+  {
+    "name": "Аэропорт Сочи > Гуандра Эшера Эконом",
+    "value": "5000",
+    "tag": "airport_sochi_guandra_eshera_econom"
+  },
+  {
+    "name": "Аэропорт Сочи > Гуандра Эшера Комфорт",
+    "value": "5800",
+    "tag": "airport_sochi_guandra_eshera_comfort"
+  },
+  {
+    "name": "Аэропорт Сочи > Гуандра Эшера Минивэн",
+    "value": "6500",
+    "tag": "airport_sochi_guandra_eshera_minivan"
+  },
+  {
+    "name": "Аэропорт Сочи > Сухуми Эконом",
+    "value": "5500",
+    "tag": "airport_sochi"
+  },
+  {
+    "name": "Аэропорт Сочи > Сухуми Комфорт",
+    "value": "6100",
+    "tag": "airport_sochi_sukhumi_comfort"
+  },
+  {
+    "name": "Аэропорт Сочи > Сухуми Минивэн",
+    "value": "6500",
+    "tag": "airport_sochi_sukhumi_minivan"
+  },
+  {
+    "name": "Аэропорт Сочи > Агудзера Гульрыпш Эконом",
+    "value": "6500",
+    "tag": "airport_sochi_agudzera_gulrypsh_econom"
+  },
+  {
+    "name": "Аэропорт Сочи > Агудзера Гульрыпш Комфорт",
+    "value": "7000",
+    "tag": "airport_sochi_agudzera_gulrypsh_comfort"
+  },
+  {
+    "name": "Аэропорт Сочи > Агудзера Гульрыпш Минивэн",
+    "value": "7300",
+    "tag": "airport_sochi_agudzera_gulrypsh_minivan"
+  },
+  {
+    "name": "Аэропорт Сочи > Кындыг Эконом",
+    "value": "7000",
+    "tag": "airport_sochi_kyndyg_econom"
+  },
+  {
+    "name": "Аэропорт Сочи > Кындыг Комфорт",
+    "value": "7800",
+    "tag": "airport_sochi_kyndyg_comfort"
+  },
+  {
+    "name": "Аэропорт Сочи > Кындыг Минивэн",
+    "value": "7800",
+    "tag": "airport_sochi_kyndyg_minivan"
+  },
+  {
+    "name": "Аэропорт Сочи > Очамчира Эконом",
+    "value": "8000",
+    "tag": "airport_sochi_ochamchira_econom"
+  },
+  {
+    "name": "Аэропорт Сочи > Очамчира Комфорт",
+    "value": "8600",
+    "tag": "airport_sochi_ochamchira_comfort"
+  },
+  {
+    "name": "Аэропорт Сочи > Очамчира Минивэн",
+    "value": "9000",
+    "tag": "airport_sochi_ochamchira_minivan"
   }
 ]
